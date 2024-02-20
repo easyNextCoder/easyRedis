@@ -1,0 +1,5 @@
+redisTool/standard
+go.mod
+go.sum
+.DS_Store
+.idea
